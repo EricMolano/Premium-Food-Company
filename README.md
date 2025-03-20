@@ -1,4 +1,4 @@
-# Premium Food Company
+# Premium Food Company Classic Edition
 
 ![Logo PFC](https://img.shields.io/badge/PFC-Premium%20Food%20Company-orange)
 ![Estado](https://img.shields.io/badge/Estado-Completado-success)
