@@ -8,6 +8,8 @@
 
 **Premium Food Company** es mi primer proyecto desarrollado durante mi formación técnica en preparatoria. Este sistema web está orientado a la gestión de un servicio de entrega de alimentos premium, implementando un enfoque moderno tanto en el aspecto visual como funcional.
 
+> **Nota:** Este es un proyecto antiguo (2021) y representa mi primer acercamiento a la programación web. La calidad del código y las prácticas de desarrollo reflejan mi nivel de experiencia en ese momento.
+
 ## 🚀 Características principales
 
 - **Sistema de autenticación** con múltiples roles (Administrador, Usuario, Domiciliario)
@@ -17,10 +19,13 @@
 
 ## 🛠️ Tecnologías utilizadas
 
-- **Frontend**: HTML5, CSS3, JavaScript, jQuery
-- **Backend**: PHP
+Este proyecto utiliza tecnologías consideradas hoy en día como tradicionales:
+
+- **Frontend**: HTML5, CSS3, JavaScript vanilla, jQuery
+- **Backend**: PHP procedural (sin frameworks)
 - **Base de datos**: MySQL
 - **Servidor**: XAMPP
+- **Control de versiones**: Git básico
 
 ## 🔧 Instalación
 
@@ -42,13 +47,21 @@ http://localhost/PFC/
 
 ## 🧠 Aprendizajes
 
-Este proyecto representa mi primer acercamiento serio al desarrollo web, donde apliqué conocimientos de:
+Este proyecto representa mi primer acercamiento serio al desarrollo web. A pesar de las limitaciones técnicas y la calidad básica del código, me permitió aplicar conocimientos fundamentales de:
 
-- Programación orientada a objetos
-- Diseño de interfaces de usuario
+- Programación orientada a objetos (conceptos básicos)
+- Diseño de interfaces de usuario (nivel principiante)
 - Estructura y manipulación de bases de datos
-- Seguridad básica en aplicaciones web
-- Control de versiones con Git
+- Seguridad básica en aplicaciones web (con vulnerabilidades propias de un proyecto de aprendizaje)
+- Control de versiones con Git (comandos fundamentales)
+
+## ⚠️ Limitaciones conocidas
+
+- Código no optimizado y con prácticas obsoletas
+- Seguridad básica vulnerable a inyecciones SQL y XSS
+- Diseño visual mejorable y poco escalable
+- Sin pruebas automatizadas
+- Documentación mínima
 
 ## 📄 Licencia
 
@@ -56,4 +69,4 @@ Este proyecto fue desarrollado con fines educativos. Todos los derechos reservad
 
 ---
 
-*Este proyecto marca el inicio de mi trayectoria como desarrollador, representando el esfuerzo y aprendizaje adquirido durante mi formación técnica en preparatoria.*
+*Este proyecto marca el inicio de mi trayectoria como desarrollador, representando el esfuerzo y aprendizaje adquirido durante mi formación técnica en preparatoria. Lo conservo como testimonio de mi evolución profesional.*
