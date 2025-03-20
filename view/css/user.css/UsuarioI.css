@@ -1,0 +1,88 @@
+/* Estilo para centrar h1 y h2 */
+h1, h2 {
+    text-align: center;
+  }
+  
+  /* Estilo para separar "Usuario" y "Contraseña" de los otros datos */
+  .usuario-contrasena {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para cada elemento de información */
+  .info-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para las etiquetas de información */
+  .label {
+    font-weight: bold;
+    width: 150px; /* Ancho fijo para las etiquetas */
+  }
+  
+  /* Estilo para los datos */
+  .data {
+    flex-grow: 1;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  /* Estilo adicional si es necesario */
+  
+  .container {
+    max-width: 400px; /* Ancho máximo del contenedor */
+    margin: 20px auto; /* Centrar el contenedor horizontalmente y agregar margen */
+  }
+  
+  /* Estilo para la tabla de Usuario y Contraseña */
+  .table-usuario {
+    width: 100%; /* Ancho completo de la tabla */
+    border-collapse: collapse;
+    margin-bottom: 20px; /* Espacio inferior para la tabla */
+  }
+  
+  .table-usuario th {
+    width: 40%; /* Ancho de las etiquetas de encabezado */
+    font-weight: bold; /* Texto en negrita para etiquetas */
+    background-color: #007bff; /* Color de fondo para las etiquetas de encabezado */
+    color: white; /* Color de texto para las etiquetas de encabezado */
+    padding: 10px; /* Espaciado interno de las etiquetas de encabezado */
+    text-align: left; /* Alinear el texto a la izquierda */
+  }
+  
+  .table-usuario td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Estilo adicional si es necesario */
+  
+   /* Estilo para la tabla de Usuario y Contraseña */
+   .table-datos {
+    width: 100%; /* Ancho completo de la tabla */
+    border-collapse: collapse;
+    margin-bottom: 20px; /* Espacio inferior para la tabla */
+  }
+  
+  .table-datos th {
+    width: 40%; /* Ancho de las etiquetas de encabezado */
+    font-weight: bold; /* Texto en negrita para etiquetas */
+    background-color: #007bff; /* Color de fondo para las etiquetas de encabezado */
+    color: white; /* Color de texto para las etiquetas de encabezado */
+    padding: 10px; /* Espaciado interno de las etiquetas de encabezado */
+    text-align: left; /* Alinear el texto a la izquierda */
+  }
+  
+  .table-datos td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Estilo adicional si es necesario */
+  
